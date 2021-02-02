@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f3faed81a9dbece47b3cf97e7011ba04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - standardTurretPrefab: {fileID: 5050955378012662212, guid: 461b79b1dcb69124caa087f31c43fd3c,
+      type: 3}
+  - waterTurretPrefab: {fileID: 5768501738648819031, guid: 9038352662c03bb449f43faaded94ff7,
+      type: 3}
+  - airTurretPrefab: {fileID: 3302724707802669479, guid: 03844edb68a37f8498b9a7fd1afde833,
+      type: 3}
+  - earthTurretPrefab: {fileID: 7502665544175834743, guid: 476ec8c2a75628a4ea24995af3cc5119,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
